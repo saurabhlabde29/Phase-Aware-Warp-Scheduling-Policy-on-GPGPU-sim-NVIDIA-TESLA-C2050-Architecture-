@@ -1,4 +1,4 @@
-# Phase-Aware-Warp-Scheduling-Policy-on-GPGPU-sim-NVIDIA-TESLA-C2050-Architecture-
+# Phase-Aware-Warp-Scheduling-Policy-on-GPGPU-sim-NVIDIA-TESLA-2050C-Architecture-
 
 Language: C++
 
